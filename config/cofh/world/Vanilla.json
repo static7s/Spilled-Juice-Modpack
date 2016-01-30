@@ -161,10 +161,7 @@
         "minHeight": 10,
         "maxHeight": 118,
         "retrogen": "true",
-        "biomeRestriction": "whitelist",
-        "biomes": [
-            "hell"
-        ],
+        "biomeRestriction": "none",
         "dimensionRestriction": "whitelist",
         "dimensions": [
             -1
