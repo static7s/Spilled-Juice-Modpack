@@ -1,5 +1,8 @@
+import mods.ic2.Compressor;
+import mods.ic2.Macerator;
+
 // IC2 RECIPE CHANGES
 
 // Machine Input, Output
-Compressor.addRecipe(<minecraft:wheat> * 2, <minecraft:bread>);
-Macerator.addRecipe(<minecraft:quartz_ore>, <minecraft:quartz> * 3);
+Compressor.addRecipe(<minecraft:bread>, <minecraft:wheat> * 2);
+Macerator.addRecipe(<minecraft:quartz> * 3, <minecraft:quartz_ore>);
