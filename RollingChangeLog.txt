@@ -1,0 +1,58 @@
+3.0.0
+
+Initial push to 3.0 mod list
+
+3.0.1
+
+Capsule Mod Removed (Server Tick Error, Reported to Mod Author)
+
+3.0.2
+
+Open Computers Added
+Chisel Bytes Added (Client Side)
+Item Scroller Added (Client Side)
+
+tombmanygraves.cfg config change (sneaking=true changed to false)
+
+3.0.3
+
+FAILED UPDATE!!!!
+Forestry Updated
+Iron Chests Updated
+JustEnoughItems Updated
+JustEnoughResources Updated
+Quark Updated
+Soul Shards Updated
+TombManyGraves Updated
+
+Elements of Power Added
+EnderTanks Added
+Light Level Overlay Added
+Pam's HArvestcraft Added
+Fancy Fluid Storage Added
+InGame Infl XML Added
+LunatriusCore Added
+Morpheus Added
+ShetiphianCore Added
+
+Durability Show Removed 
+
+3.0.4
+
+3.0.3 Changes were pushed again
+JustEnoughItems Updated
+Storage Network Removed (Hard Crash, Reported to Mod Author)
+
+3.0.5 (PENDING)
+
+Forestry Updated
+Wawla Updated
+Journey Map Updated
+
+Capsule ReAdded (Hard crash fixed)
+Storage Network ReAdded (Hard crash fixed)
+Building Bricks Added
+More Overlays Added (Client Side)
+
+LLOverlay Removed (Replaced with More Overlays)
+
