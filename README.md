@@ -8,3 +8,5 @@ Issues with mods can be posted here, and I'll do my best to determine if it's an
 Anyone identifying a config that needs to be changed, please attach an issue with the file name, config setting, and what variable it needs to be changed to. This will help me keep track of changes for the Changelog on each version.
 
 Thanks!
+
+Permissions:
