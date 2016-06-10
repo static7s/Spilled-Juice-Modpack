@@ -47,7 +47,8 @@ Storage Network Removed (Hard Crash, Reported to Mod Author)
 
 Forestry Updated
 Wawla Updated
-Journey Map Updated
+Journey Map (NOT UPDATED, CLASS ERROR, REPORTED)
+Forge Updated (1954 to 1957)
 
 Capsule ReAdded (Hard crash fixed)
 Storage Network ReAdded (Hard crash fixed)
