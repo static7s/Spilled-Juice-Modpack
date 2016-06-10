@@ -48,6 +48,8 @@ Storage Network Removed
 Forestry Updated
 Wawla Updated
 Forge Updated (1954 to 1957)
+JustEnoughItems Updated
+JourneyMap Updated
 
 Capsule ReAdded
 Storage Network ReAdded
