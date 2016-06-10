@@ -9,4 +9,4 @@ Anyone identifying a config that needs to be changed, please attach an issue wit
 
 Thanks!
 
-Permissions:
+Permissions: https://docs.google.com/spreadsheets/d/196S7WNAbEZj3Gi0UQMSbxarNmh4sfAp2uo6ns6D2MqQ/edit?usp=sharing
