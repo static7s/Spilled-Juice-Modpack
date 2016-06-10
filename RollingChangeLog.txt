@@ -52,7 +52,7 @@ Forge Updated (1954 to 1957)
 
 Capsule ReAdded (Hard crash fixed)
 Storage Network ReAdded (Hard crash fixed)
-Building Bricks Added
+Building Bricks (NOT ADDED, TICK ERROR, REPORTED)
 ore Overlays Added (Client Side)
 AppleCore Added
 
