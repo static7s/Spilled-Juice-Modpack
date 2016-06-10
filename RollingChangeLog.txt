@@ -81,7 +81,8 @@ Storage Network officially removed.
 3.0.5
 Storage Network Crash Fixed by Mod Dev.
 Capsule Fixed by Mod Dev. 
-JourneyMap was attempted to updated to 5.2.2, however ClassTarget Error. Reported and downgraded to 5.2.0
+Journeymap originally updated to 5.2.2, errors occured. Downgraded and Reported.
+Journeymap pushed to new update 5.2.3. 
 LLOverlay removed and replaced by More Overlays.
 Chisel 3 Removed due to hard crash and block errors.
 Building Bricks Added with changes.
