@@ -4,7 +4,7 @@ Initial push to 3.0 mod list
 
 3.0.1
 
-Capsule Mod Removed (Server Tick Error, Reported to Mod Author)
+Capsule Mod Removed 
 
 3.0.2
 
@@ -41,20 +41,48 @@ Durability Show Removed
 
 3.0.3 Changes were pushed again
 JustEnoughItems Updated
-Storage Network Removed (Hard Crash, Reported to Mod Author)
+Storage Network Removed 
 
-3.0.5 (PENDING)
+3.0.5
 
 Forestry Updated
 Wawla Updated
-Journey Map (NOT UPDATED, CLASS ERROR, REPORTED)
 Forge Updated (1954 to 1957)
 
-Capsule ReAdded (Hard crash fixed)
-Storage Network ReAdded (Hard crash fixed)
-Building Bricks (NOT ADDED, TICK ERROR, REPORTED)
-ore Overlays Added (Client Side)
+Capsule ReAdded
+Storage Network ReAdded
+Building Bricks Added
+More Overlays Added (Client Side)
 AppleCore Added
 
-LLOverlay Removed (Replaced with More Overlays)
+LLOverlay Removed 
+Chisel 3 Removed
+
+
+
+
+
+
+
+Change Log Notes:
+
+3.0.1
+Capsule Mod Removed due to server ticking crash. Reported
+
+3.0.3  
+Storage Network causes server crashes, world corruption. Removed and Reported
+Durability Show replaced with InGameInfo XML. Removed and Replaced
+
+3.0.4
+Storage Network officially removed.
+
+3.0.5
+Storage Network Crash Fixed by Mod Dev.
+Capsule Fixed by Mod Dev. 
+JourneyMap was attempted to updated to 5.2.2, however ClassTarget Error. Reported and downgraded to 5.2.0
+LLOverlay removed and replaced by More Overlays.
+Chisel 3 Removed due to hard crash and block errors.
+Building Bricks Added with changes.
+	-Mod Dev has been informed of a crash due to world generation. World Generation has been turned off.
+		-B:generateGrassSlabs=true to false (general.cfg under Building Blocks)
 
