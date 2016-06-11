@@ -60,8 +60,15 @@ AppleCore Added
 LLOverlay Removed 
 Chisel 3 Removed
 
+3.0.6 
 
+Behind the Scenes Code Improvements
 
+AppleCore Updated
+Ender IO Updated
+EnderCore Updated
+Quark Updated
+Refined Storage Updated
 
 
 
