@@ -69,8 +69,10 @@ Ender IO Updated
 EnderCore Updated
 Quark Updated
 Refined Storage Updated
-JustEnoughResources Updated
-
+Just Enough Resources Updated
+Blood Magic Updated
+Enderthing Updated
+Opencomputers Updated
 
 
 Change Log Notes:
