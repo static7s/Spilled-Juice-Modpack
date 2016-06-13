@@ -73,7 +73,7 @@ EnderCore Updated
 Quark Updated
 Refined Storage Updated
 Just Enough Resources Updated
-Blood Magic Updated
+Reborncore Updated
 Enderthing Updated
 Opencomputers Updated
 
@@ -101,3 +101,6 @@ Building Bricks Added with changes.
 	-Mod Dev has been informed of a crash due to world generation. World Generation has been turned off.
 		-B:generateGrassSlabs=true to false (general.cfg under Building Blocks)
 
+3.0.6 
+Blood Magic Update held due to incompatibility between it and Blood Arsenal (Bucket issue)
+Reborn Core hotfix pushed
