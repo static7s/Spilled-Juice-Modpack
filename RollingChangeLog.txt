@@ -64,6 +64,8 @@ Chisel 3 Removed
 
 Behind the Scenes Code Improvements
 
+Actually Additions Added
+
 AppleCore Updated
 Ender IO Updated
 EnderCore Updated
