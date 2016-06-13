@@ -76,6 +76,8 @@ Just Enough Resources Updated
 Reborncore Updated
 Enderthing Updated
 Opencomputers Updated
+Iron Chests Updated
+Chisel n Bits Updated
 
 
 Change Log Notes:
