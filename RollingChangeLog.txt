@@ -79,6 +79,15 @@ Opencomputers Updated
 Iron Chests Updated
 Chisel n Bits Updated
 
+3.0.7
+
+Deep Resonance updated
+Forestry Updated
+Iron Chests Updated
+McJtyLib Updated
+RfTools Updated
+RfTools Dimensions Updated
+
 
 Change Log Notes:
 
