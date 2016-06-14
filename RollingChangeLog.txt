@@ -81,13 +81,16 @@ Chisel n Bits Updated
 
 3.0.7
 
-Deep Resonance updated
+Forge Updated
+Deep Resonance Updated
 Forestry Updated
 Iron Chests Updated
 McJtyLib Updated
 RfTools Updated
 RfTools Dimensions Updated
-
+Blood Magic Updated
+Blood Arsenal Updated
+Forestry Updated
 
 Change Log Notes:
 
