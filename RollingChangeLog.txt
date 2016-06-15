@@ -93,6 +93,18 @@ Blood Arsenal Updated
 Inventory Tweaks Updated
 Refined Storage Updated
 
+3.0.8
+
+Quantum Storage Added
+
+Blood Magic Updated
+Building Bricks Updated
+Chisels n Bits Updated
+Deep Resonance Updated
+Forestry Updated
+RFTools Updated
+Morpheus Updated
+
 Change Log Notes:
 
 3.0.1
