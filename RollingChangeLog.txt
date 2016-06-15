@@ -105,6 +105,18 @@ Forestry Updated
 RFTools Updated
 Morpheus Updated
 
+3.0.9
+
+NotEnoughGodDamnOres Config Updates
+- Copper from techreborn to forestry
+- Tin from techreborn to forestry
+
+Quark Config Updates
+- Greener Grass set to false
+- Experimental Caves set to true
+
+PSI Updated
+
 Change Log Notes:
 
 3.0.1
