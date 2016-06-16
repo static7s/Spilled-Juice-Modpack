@@ -108,6 +108,7 @@ Morpheus Updated
 3.0.9
 
 Random Things Added
+Veinminer Added
 
 NotEnoughGodDamnOres Config Updates
 - Copper from techreborn to forestry
@@ -119,6 +120,11 @@ Quark Config Updates
 Building Blocks Config Updates
 - Grass half slabs set to generate false to true
 
+Veinminer Config Updates
+- I:limit.radius=10 (Original 20)
+- I:hungermodifier=4 (Original 0)
+- I:limit.blocks=200 (Original 800)
+
 PSI Updated
 Blood Arsenal Updated
 Forestry Updated
@@ -129,6 +135,7 @@ Ender IO Updated
 Refined Storage Updated
 RfTools Updated
 McJtyLib Updated
+Just Enough Resources Updated
 
 Change Log Notes:
 
