@@ -115,7 +115,6 @@ NotEnoughGodDamnOres Config Updates
 
 Quark Config Updates
 - Greener Grass set to false
-- Experimental Caves set to true
 
 Building Blocks Config Updates
 - Grass half slabs set to generate false to true
@@ -124,6 +123,11 @@ PSI Updated
 Blood Arsenal Updated
 Forestry Updated
 Soul Shards: The Old Ways Updated
+Chisel & Bits Updated
+Quark Updated
+Ender IO Updated
+Refined Storage Updated
+RfTools Updated
 
 Change Log Notes:
 
@@ -151,3 +155,7 @@ Building Bricks Added with changes.
 3.0.6 
 Blood Magic Update held due to incompatibility between it and Blood Arsenal (Bucket issue)
 Reborn Core hotfix pushed
+
+3.0.9
+Experimental Caves set to True from False (QUARK CONFIG)
+- Very decent looking, but not ready to be launched.
