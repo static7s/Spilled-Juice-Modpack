@@ -28,9 +28,9 @@ TombManyGraves Updated
 Elements of Power Added
 EnderTanks Added
 Light Level Overlay Added
-Pam's HArvestcraft Added
+Pam's Harvestcraft Added
 Fancy Fluid Storage Added
-InGame Infl XML Added
+InGame Info XML Added
 LunatriusCore Added
 Morpheus Added
 ShetiphianCore Added
@@ -116,6 +116,9 @@ NotEnoughGodDamnOres Config Updates
 Quark Config Updates
 - Greener Grass set to false
 - Experimental Caves set to true
+
+Building Blocks Config Updates
+- Grass half slabs set to generate false to true
 
 PSI Updated
 Blood Arsenal Updated
