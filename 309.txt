@@ -1,0 +1,36 @@
+3.0.9
+
+Random Things Added
+Veinminer Added
+
+NotEnoughGodDamnOres Config Updates
+- Copper from techreborn to forestry
+- Tin from techreborn to forestry
+
+Quark Config Updates
+- Greener Grass set to false
+
+Building Blocks Config Updates
+- Grass half slabs set to generate false to true
+
+Veinminer Config Updates
+- I:limit.radius=10 (Original 20)
+- I:hungermodifier=4 (Original 0)
+- I:limit.blocks=200 (Original 800)
+
+PSI Updated
+Blood Arsenal Updated
+Forestry Updated
+Soul Shards: The Old Ways Updated
+Chisel & Bits Updated
+Quark Updated
+Ender IO Updated
+Refined Storage Updated
+RfTools Updated
+McJtyLib Updated
+Just Enough Resources Updated
+
+Notes:
+
+Experimental Caves set to True from False (QUARK CONFIG)
+- Very decent looking, but not ready to be launched.
