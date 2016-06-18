@@ -137,6 +137,31 @@ RfTools Updated
 McJtyLib Updated
 Just Enough Resources Updated
 
+3.0.10
+
+Origin Added
+Chunk Commander Added
+UniDict Added
+Block Drops JEI Addon Added
+
+Forge Updated
+Bagginses Updated
+Botania Unofficial Updated
+Building Bricks Updated
+Ender IO Updated
+EnderCore Updated
+Fancy Fluid Storage Updated
+Forestry Updated
+Just Enough Items Updated
+Pam's Harvestcraft Updated
+Refined Storage Updated
+RfTools Updated
+Soul Shards The Old Ways Updated
+Storage Network Updated
+Tomb Many Graves Updated
+
+NotEnoughGodDamnOres Removed
+
 Change Log Notes:
 
 3.0.1
@@ -167,3 +192,8 @@ Reborn Core hotfix pushed
 3.0.9
 Experimental Caves set to True from False (QUARK CONFIG)
 - Very decent looking, but not ready to be launched.
+
+3.0.10
+Chunk Commander added to supplement chunkloading needs since ftbutilities has not been updated.
+
+NotEnoughGodDamnOres has been found to be the culprit for causing botania flowers to despawn and tanks to not hold liquid. This mod has been replaced with UniDict.
