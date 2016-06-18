@@ -1,0 +1,8 @@
+{
+	"general": {
+		// Max time players are allowed to be offline for personal chunks, in minutes.
+		"Max away time": 60,
+		// Max time player's can be offline before their chunks are no longer chunk loaded, in hours.
+		"Max time absent": 30
+	}
+}
