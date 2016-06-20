@@ -169,6 +169,38 @@ Hotfix Config Change
 forestry/lepidopterology.cfg
 - Spawn.limit=100 changed to 40
 
+3.0.12
+
+Abyssalcraft Added
+AbyssalCraft Integration Added
+Agricultural Expansion Added
+BoilerPlate Added
+CyclopsCore Added
+Integrated Dynamics Added
+Modular Utilities Added
+Roguelike Dungeons Added
+Roots Added
+
+Forge Updated
+Actually Additions Updated
+FFS Fancy Fluid Storage Updated
+Forestry Updated
+Just Enough Items Updated
+Just Enough Resources Updated
+Mantle Updated
+More Overlays Updated
+PSI Updated
+Refined Storage Updated
+Tinkers Construct Updated
+Tomb Many Graves Updated
+VeinMiner Updated
+Enderthing Updated
+Quark Updated
+RfTools Updated
+Soul Shards Updated
+
+Block Drops Removed
+
 
 Change Log Notes:
 
@@ -212,3 +244,10 @@ Hotfix Config Change
 
 forestry/lepidopterology.cfg
 - Spawn.limit=100 changed to 40
+
+3.0.12
+
+Bookshelf (Dependency) attempt to add, causes errors
+Enchanting Plus (Culprit) attempt to add, causes critical crash
+UniDict (Failed Update) Causes server crash
+Blood Drops (Temporary) removal until updated for newest JEI
