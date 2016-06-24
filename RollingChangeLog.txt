@@ -201,6 +201,64 @@ Soul Shards Updated
 
 Block Drops Removed
 
+3.0.13 HOTFIX
+
+Quark Updated (Stop Optifine Crashes)
+
+UniDict Config Updates
+
+0.0.1 World Reset Update
+
+ChunkCommander Removed
+TechReborn Removed
+RebornCore Removed
+QuantumStorage Removed
+
+Abyssalcraft Updated
+Advanced Generators Updated
+BdLib Updated
+Chisels & Bits Updated
+Deep Resonance Updated
+Ender IO Updated
+EnderTanks Updated
+Forestry Updated
+Iron Chests Updated
+Just Enough Resources Updated
+Pressure Pipes Updated
+Quark Updated
+RFTools Updated
+RFTools Dimensions Updated
+Roguelike Dungeons Updated
+Soul Shards: The Old Ways Updated
+Storage Drawers Updated
+Storage Network Updated
+Tomb Many Graves Updated
+UniDict Updated
+Forge Updated
+Tinker's Construct Updated
+
+Industrialcraft Added
+PlaceableGunPowder Added
+Tinkers I/O Added
+FTB Utilities Added
+FTB Lib Added
+Substratum Added
+
+Forestry Copper/Tin Off
+Abyssalcraft Biome_Spawning All = False
+BetterBuildersWands Stone Wand = False
+Morpheus SleeperPerc 50 to 25
+Quark GreenerGrass = False
+Recall Stones Charges per Pearl = 5 to 10
+ic2 Ore Gen Copper/Tin/Lead Off
+Quark
+	Diamond Count 1 to 20
+	Gold Count 1 to 4
+	Iron Count 20 to 30
+	Lapis Count 1 to 4
+	Redstone Count 8 to 12
+
+Chunkcommander Removed
 
 Change Log Notes:
 
@@ -251,3 +309,16 @@ Bookshelf (Dependency) attempt to add, causes errors
 Enchanting Plus (Culprit) attempt to add, causes critical crash
 UniDict (Failed Update) Causes server crash
 Blood Drops (Temporary) removal until updated for newest JEI
+
+3.0.13
+
+Quark Updated to Solve Optifine Crashes (28)
+UniDict Config Updates
+UniDict.cfg
+-    S:metalsToUnify 
+-		Remove Iron/Gold
+
+
+
+
+
