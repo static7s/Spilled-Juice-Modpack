@@ -1,0 +1,137 @@
+[18:20:11] [Server thread/INFO]: Starting minecraft server version 1.9.4
+[18:20:37] [Server thread/INFO]: Loading properties
+[18:20:37] [Server thread/INFO]: Default game type: SURVIVAL
+[18:20:37] [Server thread/INFO]: Generating keypair
+[18:20:37] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25567
+[18:20:37] [Server thread/INFO]: Using epoll channel type
+[18:20:52] [Server thread/INFO]: Preparing level "world"
+[18:20:56] [Server thread/INFO]: Preparing start region for level 0
+[18:20:57] [Server thread/INFO]: Preparing spawn area: 53%
+[18:20:57] [Server thread/INFO]: Done (5.116s)! For help, type "help" or "?"
+[18:20:57] [Server thread/INFO]: Starting GS4 status listener
+[18:20:57] [Server thread/INFO]: Starting remote control listener
+[18:20:57] [Query Listener #1/INFO]: Query running on 0.0.0.0:25594
+[18:20:57] [RCON Listener #2/INFO]: RCON running on 0.0.0.0:25595
+[18:20:58] [Server thread/INFO]: FTBLib: Server reloaded in 30ms
+[18:21:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7784ms behind, skipping 155 tick(s)
+[18:21:09] [IRCConnection (107.170.109.74)/INFO]: BAGEL has joined #breakfast
+[18:21:09] [IRCConnection (107.170.109.74)/INFO]: Time to start a collection of crash logs! Should you crash on BAGEL, please inform me at https://github.com/BreakfastCraft/Spilled-Juice-Modpack 
+[18:21:19] [User Authenticator #1/INFO]: UUID of player waerloga is 6d004c61-7db2-4e78-9e03-4464cbeb33b6
+[18:21:19] [User Authenticator #2/INFO]: UUID of player southernfriedbb is 72f98d37-1266-4a72-a3e0-643995268cd9
+[18:21:20] [Server thread/INFO]: waerloga[/71.62.71.3:60179] logged in with entity id 436 at (1929.7573482625362, 85.0, -114.47255778025861)
+[18:21:20] [Server thread/INFO]: waerloga joined the game
+[18:21:20] [Server thread/INFO]: southernfriedbb[/75.131.40.4:59780] logged in with entity id 437 at (-930.4122502677245, 69.0, 83.80704333582933)
+[18:21:20] [Server thread/INFO]: southernfriedbb joined the game
+[18:21:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:22:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:23:13] [User Authenticator #3/INFO]: UUID of player Topher is 2eb946b8-efc0-4a72-9c2b-455a05fd776a
+[18:23:15] [Server thread/INFO]: Topher[/68.3.171.43:65389] logged in with entity id 2369 at (2811.289341891072, 63.0, -3829.219565803574)
+[18:23:15] [Server thread/INFO]: Topher joined the game
+[18:23:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:24:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:25:01] [IRCConnection (107.170.109.74)/INFO]: CREPE: *** WARNING: planned restart in 5 minutes. ***
+[18:25:12] [Server thread/INFO]: southernfriedbb has just earned the achievement [Magical Wood]
+[18:25:32] [Server thread/INFO]: <Topher> lmfao. that achievement subtext when you hover over it
+[18:25:45] [Server thread/INFO]: <southernfriedbb> lol
+[18:25:52] [Server thread/INFO]: <Topher> *snicker*
+[18:25:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:26:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:26:58] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:26:58] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:27:05] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:27:05] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:27:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:28:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:29:01] [IRCConnection (107.170.109.74)/INFO]: CREPE: *** WARNING: planned restart in 1 minute. ***
+[18:29:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:30:01] [IRCConnection (107.170.109.74)/INFO]: CREPE has quit IRC ()
+[18:30:01] [Server thread/INFO]: Saving...
+[18:30:01] [IRCConnection (107.170.109.74)/INFO]: DONUT: *** WARNING: planned restart in 10 minutes. ***
+[18:30:02] [Server thread/INFO]: Saved the world
+[18:30:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:31:13] [IRCConnection (107.170.109.74)/INFO]: CREPE has joined #breakfast
+[18:31:22] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:31:22] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:31:49] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:31:49] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:31:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:32:08] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:32:19] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:32:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:33:04] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:33:04] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:33:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:34:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:35:01] [IRCConnection (107.170.109.74)/INFO]: DONUT: *** WARNING: planned restart in 5 minutes. ***
+[18:35:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:36:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:37:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:38:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:39:01] [IRCConnection (107.170.109.74)/INFO]: DONUT: *** WARNING: planned restart in 1 minute. ***
+[18:39:05] [IRCConnection (107.170.109.74)/INFO]: DONUT: zro5001 left the game
+[18:39:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:40:01] [IRCConnection (107.170.109.74)/INFO]: BRUNCH: *** WARNING: planned restart in 10 minutes. ***
+[18:40:01] [IRCConnection (107.170.109.74)/INFO]: DONUT has quit IRC ()
+[18:40:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:41:37] [IRCConnection (107.170.109.74)/INFO]: Segfaulted has quit IRC ()
+[18:41:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:42:27] [IRCConnection (107.170.109.74)/INFO]: Segfaulted has joined #breakfast
+[18:42:43] [IRCConnection (107.170.109.74)/INFO]: DONUT has joined #breakfast
+[18:42:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:43:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:44:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:45:01] [IRCConnection (107.170.109.74)/INFO]: BRUNCH: *** WARNING: planned restart in 5 minutes. ***
+[18:45:01] [Server thread/INFO]: Saving...
+[18:45:02] [Server thread/INFO]: Saved the world
+[18:45:06] [IRCConnection (107.170.109.74)/INFO]: DONUT: zro5001 joined the game
+[18:45:14] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:45:14] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:45:23] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:45:49] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:45:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:46:35] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:46:35] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:46:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:47:20] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:47:20] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:47:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:48:05] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:48:05] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:48:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:49:01] [IRCConnection (107.170.109.74)/INFO]: BRUNCH: *** WARNING: planned restart in 1 minute. ***
+[18:49:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:50:01] [IRCConnection (107.170.109.74)/INFO]: BRUNCH has quit IRC ()
+[18:50:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:51:00] [IRCConnection (107.170.109.74)/INFO]: BRUNCH has joined #breakfast
+[18:51:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:52:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:53:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:54:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:55:35] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:55:35] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:55:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:56:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:57:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:58:35] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:58:35] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:58:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:59:21] [Server thread/WARN]: southernfriedbb moved wrongly!
+[18:59:25] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[18:59:25] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[18:59:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:00:01] [Server thread/INFO]: Saving...
+[19:00:02] [Server thread/INFO]: Saved the world
+[19:00:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:01:03] [Server thread/INFO]: Topher lost connection: TextComponent{text='A fatal error has occurred, this connection is terminated', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:01:03] [Server thread/INFO]: Topher left the game
+[19:01:11] [IRCConnection (107.170.109.74)/INFO]: Topher: and fucking crash on opening TiCon table with bare hand
+[19:01:25] [User Authenticator #4/INFO]: UUID of player Topher is 2eb946b8-efc0-4a72-9c2b-455a05fd776a
+[19:01:26] [Server thread/INFO]: Topher[/68.3.171.43:49805] logged in with entity id 32179 at (2811.5453616441287, 63.0, -3827.293618144779)
+[19:01:26] [Server thread/INFO]: Topher joined the game
+[19:01:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:02:12] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[19:02:12] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[19:02:46] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 69060143-530f-4fa8-aead-9b27ecfa565a
+[19:02:46] [Server thread/WARN]: Keeping entity Villager that already exists with UUID 553a8ddd-467b-4958-9d64-8301a0ca37f1
+[19:02:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:03:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
