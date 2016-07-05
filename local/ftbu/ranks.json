@@ -10,8 +10,7 @@
         "ftbu.chunkloader.max_chunks": 50,
         "ftbu.chunkloader.offline_timer": 72.0,
         "ftbu.chunkloader.type": "offline",
-        "ftbu.claims.break_whitelist": [
-        ],
+        "ftbu.claims.break_whitelist": [],
         "ftbu.claims.dimension_blacklist": [
           1
         ],
@@ -25,7 +24,7 @@
       "prefix": "",
       "badge": "",
       "permissions": [
-        "+*"
+        "-*"
       ],
       "config": {
         "ftbu.chunkloader.max_chunks": 50,

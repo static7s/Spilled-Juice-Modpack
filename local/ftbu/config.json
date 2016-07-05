@@ -1,7 +1,7 @@
 {
   "modules": {
-    "backups": true,
-    "auto_restart": true,
+    "backups": false,
+    "auto_restart": false,
     "chunk_claiming": true,
     "chunk_loading": true,
     "motd": true,
@@ -21,11 +21,10 @@
     "restart_timer": 0.0,
     "safe_spawn": false,
     "blocked_entities": [],
-    "ranks_enabled": false,
+    "ranks_enabled": true,
     "spawn_area_in_sp": false,
     "server_info_difficulty": true,
-    "server_info_mode": true,
-    "enable_restart_cmd_on_sp": false
+    "server_info_mode": true
   },
   "login": {
     "motd": [],
