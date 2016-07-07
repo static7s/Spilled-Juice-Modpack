@@ -2,6 +2,11 @@ recipes.addShaped(<minecraft:saddle>,
 	[[<minecraft:leather>, <minecraft:leather>, <minecraft:leather>],
 	[<minecraft:leather>, <ore:ingotIron>, <minecraft:leather>],
 	[<minecraft:string>, null, <minecraft:string>]]);
+	
+recipes.addShaped(<minecraft:name_tag>,
+	[[null, <minecraft:string>, <minecraft:string>],
+	[<minecraft:paper>, <minecraft:leather>, <minecraft:string>],
+	[<minecraft:leather>, <minecraft:paper>, null]]);
 
 recipes.addShaped(<substratum:ingot> * 2,
 	[[<agriculturalexpansion:copper_essence>, <agriculturalexpansion:copper_essence>, <agriculturalexpansion:copper_essence>],
