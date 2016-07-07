@@ -7,6 +7,16 @@ recipes.addShaped(<minecraft:name_tag>,
 	[[null, <minecraft:string>, <minecraft:string>],
 	[<minecraft:paper>, <minecraft:leather>, <minecraft:string>],
 	[<minecraft:leather>, <minecraft:paper>, null]]);
+	
+recipes.addShaped(<substratum:ingot:2> * 2,
+	[[<agriculturalexpansion:bronze_essence>, <agriculturalexpansion:bronze_essence>, <agriculturalexpansion:bronze_essence>],
+	[<agriculturalexpansion:bronze_essence>, null, <agriculturalexpansion:bronze_essence>],
+	[<agriculturalexpansion:bronze_essence>, <agriculturalexpansion:bronze_essence>, <agriculturalexpansion:bronze_essence>]]);
+	
+recipes.addShaped(<substratum:ingot:2> * 1,
+	[[null, <agriculturalexpansion:bronze_essence>, null],
+	[<agriculturalexpansion:bronze_essence>, null, <agriculturalexpansion:bronze_essence>],
+	[null, <agriculturalexpansion:bronze_essence>, null]]);
 
 recipes.addShaped(<substratum:ingot> * 2,
 	[[<agriculturalexpansion:copper_essence>, <agriculturalexpansion:copper_essence>, <agriculturalexpansion:copper_essence>],
