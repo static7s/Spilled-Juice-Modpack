@@ -24,7 +24,7 @@
       "prefix": "",
       "badge": "",
       "permissions": [
-        "-*"
+        "+*"
       ],
       "config": {
         "ftbu.chunkloader.max_chunks": 50,
