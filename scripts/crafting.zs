@@ -49,3 +49,9 @@ recipes.addShaped(<substratum:ingot:5> * 1,
 	[null, <agriculturalexpansion:nickel_essence>, null]]);
 
 <chesttransporter:chesttransporter_diamond>.maxDamage = 5;
+
+recipes.remove(<calculator:EndForgedPickaxe>);
+recipes.remove(<calculator:EndForgedHoe>);
+recipes.remove(<calculator:EndForgedShovel>);
+recipes.remove(<calculator:EndForgedSword>);
+recipes.remove(<calculator:EndForgedAxe>);
