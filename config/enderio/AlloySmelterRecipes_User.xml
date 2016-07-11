@@ -27,5 +27,17 @@
 -->
 
 <AlloySmelterRecipes>
+	
+	<recipeGroup name="User" >
+    <recipe name="Enderium" energyCost="10000" >
+            <input>
+                <itemStack oreDictionary="ingotEnderiumBase" number="1" />
+                <itemStack modID="minecraft" itemName="ender_pearl" number="1" />
+            </input>
+            <output>
+                <itemStack modID="substratum" itemName="ingot" itemMeta="15" number="1" exp="1" />
+            </output>
+    </recipe>
+</recipeGroup>
 
 </AlloySmelterRecipes>
