@@ -215,7 +215,8 @@
         "minecraft:stone_shovel",
         "minecraft:wooden_shovel",
         "tconstruct:mattock",
-        "tconstruct:shovel"
+        "tconstruct:shovel",
+        "actuallyadditions:itemDrill:3"
       ],
       "blocklist": [
         "minecraft:clay",
