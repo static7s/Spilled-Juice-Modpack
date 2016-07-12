@@ -89,13 +89,13 @@
         "IC2:itemToolDDrill",
         "IC2:itemToolDrill",
         "IC2:itemToolIridiumDrill",
+        "actuallyadditions:itemDrill:3",
         "minecraft:diamond_pickaxe",
         "minecraft:golden_pickaxe",
         "minecraft:iron_pickaxe",
         "minecraft:stone_pickaxe",
         "minecraft:wooden_pickaxe",
-        "tconstruct:pickaxe",
-        "actuallyadditions:itemDrill:3"
+        "tconstruct:pickaxe"
       ],
       "blocklist": [
         "abyssalcraft:abycopore/0",
@@ -209,14 +209,14 @@
       "icon": "minecraft:diamond_shovel",
       "toollist": [
         "IC2:itemToolBronzeSpade",
+        "actuallyadditions:itemDrill:3",
         "minecraft:diamond_shovel",
         "minecraft:golden_shovel",
         "minecraft:iron_shovel",
         "minecraft:stone_shovel",
         "minecraft:wooden_shovel",
         "tconstruct:mattock",
-        "tconstruct:shovel",
-        "actuallyadditions:itemDrill:3"
+        "tconstruct:shovel"
       ],
       "blocklist": [
         "minecraft:clay",
