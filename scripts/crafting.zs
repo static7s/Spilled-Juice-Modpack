@@ -3,9 +3,9 @@ recipes.remove(<calculator:EndForgedHoe>);
 recipes.remove(<calculator:EndForgedShovel>);
 recipes.remove(<calculator:EndForgedSword>);
 recipes.remove(<calculator:EndForgedAxe>);
-recipes.removed(<agriculturalexpansion:water_sprout_former>);
+recipes.remove(<agriculturalexpansion:water_sprout_former>);
 
-recipes.addShapeless(<agriculturalexpansion:water_sprout_former>
+recipes.addShapeless(<agriculturalexpansion:water_sprout_former>,
 	[<harvestcraft:freshwaterItem>]);
 
 recipes.addShaped(<minecraft:saddle>,
@@ -19,5 +19,3 @@ recipes.addShaped(<minecraft:name_tag>,
 	[<minecraft:leather>, <minecraft:paper>, null]]);
 	
 <chesttransporter:chesttransporter_diamond>.maxDamage = 5;
-
-
