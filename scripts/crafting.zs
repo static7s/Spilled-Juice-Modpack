@@ -19,3 +19,11 @@ recipes.addShaped(<minecraft:name_tag>,
 	[<minecraft:leather>, <minecraft:paper>, null]]);
 	
 <chesttransporter:chesttransporter_diamond>.maxDamage = 5;
+
+recipes.addShapeless(<minecraft:packed_ice>,
+	[<ore:ice>, <ore:ice>, <ore:ice>, <ore:ice>]);
+
+furnace.addRecipe(<substratum:ingot:9> * 5, <minecraft:chainmail_helmet>);
+furnace.addRecipe(<substratum:ingot:9> * 4, <minecraft:chainmail_boots>);
+furnace.addRecipe(<substratum:ingot:9> * 8, <minecraft:chainmail_chestplate>);
+furnace.addRecipe(<substratum:ingot:9> * 7, <minecraft:chainmail_leggings>);
