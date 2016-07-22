@@ -38,6 +38,17 @@
                 <itemStack modID="substratum" itemName="ingot" itemMeta="15" number="1" exp="1" />
             </output>
     </recipe>
+    
+    <recipe name="Steel" energyCost="5000" >
+    	<input>
+    		<itemStack oreDictionary="ingotIron" number="1" />
+    		<itemStack oreDictionary="dustCoal" number="4" />
+    	</input>
+    	<output>
+    		<itemStack oreDictionary="ingotSteel" number="1" exp="1" />
+    	</output>
+    </recipe>
+    
 </recipeGroup>
 
 </AlloySmelterRecipes>
