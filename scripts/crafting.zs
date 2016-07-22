@@ -4,6 +4,10 @@ recipes.remove(<calculator:EndForgedShovel>);
 recipes.remove(<calculator:EndForgedSword>);
 recipes.remove(<calculator:EndForgedAxe>);
 recipes.remove(<agriculturalexpansion:water_sprout_former>);
+recipes.remove(<harvestcraft:freshwaterItem>);
+
+recipes.addShapeless(<harvestcraft:freshwaterItem>,
+	[<minecraft:water_bucket>]);
 
 recipes.addShapeless(<agriculturalexpansion:water_sprout_former>,
 	[<harvestcraft:freshwaterItem>]);
