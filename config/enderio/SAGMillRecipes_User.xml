@@ -97,5 +97,44 @@
 -->
 
 <SAGMillRecipes>
+    <recipeGroup name="Spilled Juice" >
+        <recipe name="Prismarine" energyCost="3600" >
+            <input>
+                <itemStack oreDictionary="blockPrismarine" />
+            </input>
+            <output>
+                <itemStack modID="minecraft" itemName="prismarine_shard" number="4" />
+            </output>
+        </recipe>
+        
+        <recipe name="Prismarine Bricks" energyCost="4000" >
+            <input>
+                <itemStack oreDictionary="blockPrismarineBrick" />
+            </input>
+            <output>
+                <itemStack modID="minecraft" itemName="prismarine_shard" number="9" />
+            </output>
+        </recipe>
+        
+        <recipe name="Dark Prismarine" energyCost="3800" >
+            <input>
+                <itemStack oreDictionary="blockPrismarineDark" />
+            </input>
+            <output>
+                <itemStack modID="minecraft" itemName="prismarine_shard" number="8" />
+                <itemStack modID="minecraft" itemName="dye" itemMeta="0" number="1" chance="0.8" />
+            </output>
+        </recipe>
+        
+        <recipe name="Sea Lantern" energyCost="4500" >
+            <input>
+                <itemStack modID="minecraft" itemName="sea_lantern" />
+            </input>
+            <output>
+                <itemStack modID="minecraft" itemName="prismarine_shard" number="4" />
+                <itemStack modID="minecraft" itemName="prismarine_crystals" number="5" />
+            </output>
+        </recipe>
+    </recipeGroup>
 
 </SAGMillRecipes>
