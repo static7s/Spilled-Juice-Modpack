@@ -1,10 +1,11 @@
-recipes.remove(<calculator:EndForgedPickaxe>);
-recipes.remove(<calculator:EndForgedHoe>);
-recipes.remove(<calculator:EndForgedShovel>);
-recipes.remove(<calculator:EndForgedSword>);
-recipes.remove(<calculator:EndForgedAxe>);
+//recipes.remove(<calculator:EndForgedPickaxe>);
+//recipes.remove(<calculator:EndForgedHoe>);
+//recipes.remove(<calculator:EndForgedShovel>);
+//recipes.remove(<calculator:EndForgedSword>);
+//recipes.remove(<calculator:EndForgedAxe>);
 recipes.remove(<agriculturalexpansion:water_sprout_former>);
 recipes.remove(<harvestcraft:freshwaterItem>);
+recipes.remove(<actuallyadditions:itemFood:0>);
 
 recipes.addShapeless(<harvestcraft:freshwaterItem>,
 	[<minecraft:water_bucket>]);
@@ -27,7 +28,28 @@ recipes.addShaped(<minecraft:name_tag>,
 recipes.addShapeless(<minecraft:packed_ice>,
 	[<ore:ice>, <ore:ice>, <ore:ice>, <ore:ice>]);
 
+recipes.addShapeless(<minecraft:sponge>,
+	[<minecraft:wool:*>, <ore:slimeball>]);
+
+recipes.addShapeless(<actuallyadditions:itemMisc:5> * 4,
+	[<actuallyadditions:blockMisc:2>]);
+
+recipes.addShapeless(<actuallyadditions:itemMisc:5> * 4,
+	[<actuallyadditions:blockMisc:1>]);
+
+recipes.addShapeless(<actuallyadditions:itemMisc:5> * 2,
+	[<actuallyadditions:blockMisc:0>]);
+
+recipes.addShapeless(<actuallyadditions:itemFood:0>,
+	[<ore:dustSalt>, <ore:listAllmilk>]);
+
+recipes.addShapeless(<minecraft:ender_chest>,
+[<enderthing:enderPack>.giveBack(<minecraft:ender_eye>).giveBack(<minecraft:leather> * 4).giveBack(<minecraft:wool:0> * 3)]);
+
 furnace.addRecipe(<substratum:ingot:9> * 5, <minecraft:chainmail_helmet>);
 furnace.addRecipe(<substratum:ingot:9> * 4, <minecraft:chainmail_boots>);
 furnace.addRecipe(<substratum:ingot:9> * 8, <minecraft:chainmail_chestplate>);
 furnace.addRecipe(<substratum:ingot:9> * 7, <minecraft:chainmail_leggings>);
+
+val cheese = <ore:foodCheese>;
+cheese.add(<actuallyadditions:itemFood:0>);
