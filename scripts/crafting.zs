@@ -1,8 +1,3 @@
-recipes.remove(<calculator:EndForgedPickaxe>);
-recipes.remove(<calculator:EndForgedHoe>);
-recipes.remove(<calculator:EndForgedShovel>);
-recipes.remove(<calculator:EndForgedSword>);
-recipes.remove(<calculator:EndForgedAxe>);
 recipes.remove(<agriculturalexpansion:water_sprout_former>);
 recipes.remove(<harvestcraft:freshwaterItem>);
 recipes.remove(<actuallyadditions:itemFood:0>);
