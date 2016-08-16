@@ -2,6 +2,23 @@ recipes.remove(<agriculturalexpansion:water_sprout_former>);
 recipes.remove(<harvestcraft:freshwaterItem>);
 recipes.remove(<actuallyadditions:itemFood:0>);
 
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:1>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:2>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:3>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:4>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:5>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:6>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:7>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:8>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:9>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:10>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:11>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:12>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:13>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:14>]);
+recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:15>]);
+
 recipes.addShapeless(<harvestcraft:freshwaterItem>,
 	[<minecraft:water_bucket>]);
 
