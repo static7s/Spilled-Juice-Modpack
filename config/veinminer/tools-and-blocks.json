@@ -11,7 +11,8 @@
         "minecraft:iron_axe",
         "minecraft:stone_axe",
         "minecraft:wooden_axe",
-        "tconstruct:hatchet"
+        "tconstruct:hatchet",
+      	"calculator:EndForgedAxe"
       ],
       "blocklist": [
         "abyssalcraft:dltleaves/0",
@@ -95,7 +96,8 @@
         "minecraft:iron_pickaxe",
         "minecraft:stone_pickaxe",
         "minecraft:wooden_pickaxe",
-        "tconstruct:pickaxe"
+        "tconstruct:pickaxe",
+      	"calculator:EndForgedPickaxe"
       ],
       "blocklist": [
         "abyssalcraft:abycopore/0",
@@ -178,6 +180,7 @@
         "techreborn:techreborn.ore/13",
         "techreborn:techreborn.ore2/0",
         "techreborn:techreborn.ore2/1"
+        "chisel:*"
       ]
     },
     "shears": {
@@ -219,7 +222,8 @@
         "minecraft:stone_shovel",
         "minecraft:wooden_shovel",
         "tconstruct:mattock",
-        "tconstruct:shovel"
+        "tconstruct:shovel",
+      	"calculator:EndForgedShovel"
       ],
       "blocklist": [
         "minecraft:clay",
