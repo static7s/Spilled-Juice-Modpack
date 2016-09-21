@@ -1,6 +1,6 @@
 {
   "world": {
-    "auto_restart": true,
+    "auto_restart": false,
     "chunk_claiming": true,
     "chunk_loading": true,
     "restart_timer": 0.0,
@@ -12,7 +12,7 @@
     "server_info_mode": true
   },
   "backups": {
-    "enabled": true,
+    "enabled": false,
     "backups_to_keep": 12,
     "backup_timer": 2.0,
     "compression_level": 1,
@@ -23,7 +23,7 @@
   },
   "general": {
     "restart_timer": 0.0,
-    "safe_spawn": false,
+    "safe_spawn": true,
     "blocked_entities": [],
     "ranks_enabled": true,
     "spawn_area_in_sp": false,
