@@ -72,3 +72,6 @@ recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:12>]);
 recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:13>]);
 recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:14>]);
 recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:15>]);
+
+recipes.addShapeless(<minecraft:fermented_spider_eye>,
+	[<minecraft:spider_eye>, <minecraft:sugar>, <minecraft:red_mushroom>]);
