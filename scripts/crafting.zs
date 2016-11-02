@@ -75,3 +75,6 @@ recipes.addShapeless(<chisel:carpet:15>, [<minecraft:carpet:15>]);
 
 recipes.addShapeless(<minecraft:fermented_spider_eye>,
 	[<minecraft:spider_eye>, <minecraft:sugar>, <minecraft:red_mushroom>]);
+
+recipes.addShapeless(<roots:verdantSprig>,
+	[<roots:oldRoot>, <roots:oldRoot>]);
